@@ -5,8 +5,7 @@
 # For format details, see: https://gh.io/customagents/config
 
 name: my-agent
-description:
-This is a test agent that can create a .md file about what repository solves
+description: This is a test agent that can create a .md file about what repository solves
 ---
 # My Agent
 
